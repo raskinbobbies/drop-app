@@ -9,8 +9,10 @@ and small reminders a place to land while you get on with your day.
  · [All releases](https://github.com/raskinbobbies/drop-app/releases)
  · [Installation](#install-drop) · [Your data](#your-data-stays-local)
 
-> Public downloads are not available yet. The download links will become active
-> when the first approved installer is released.
+> **[Download Drop for Windows — latest stable release](https://github.com/raskinbobbies/drop-app/releases/latest)**
+>
+> The current stable release is **v0.1.192**. Download the installer and SHA-256
+> checksum from the release assets.
 >
 > Screenshots below are previews from a development candidate, using fictional
 > demo notes. Appearance and available features may differ in the released version;
